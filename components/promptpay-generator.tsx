@@ -550,7 +550,7 @@ export default function PromptPayGenerator() {
                             Reset
                         </button>
 
-                        {payload && (
+                       {/*  {payload && (
                             <details className="mt-6">
                                 <summary className="cursor-pointer text-sm font-medium text-stone-700">
                                     View PromptPay Payload
@@ -560,7 +560,7 @@ export default function PromptPayGenerator() {
                                     {payload}
                                 </div>
                             </details>
-                        )}
+                        )} */}
 
                     </div>
 
